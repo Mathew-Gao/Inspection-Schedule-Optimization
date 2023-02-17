@@ -8,7 +8,7 @@ and consider constraints such as roads that need inspections 2x p/week and other
 
 **This repository has two folders:**
 
-                                            Raw Data input & optimization
+                                            Files in Raw Data input & optimization:
 
 **road_gps_data.csv:** GPS data for the roads to be inspected.
 
@@ -16,7 +16,7 @@ and consider constraints such as roads that need inspections 2x p/week and other
 
 **optimization_schedule.ipynb:** Jupyter notebook file that optimizes the schedules using the road GPS data.
 
-                                            Data output & Visualization
+                                            Files in Data output & Visualization:
 
 **csvs for optimized schdules:** Optimized work schedule data for the road inspection workers.
 
