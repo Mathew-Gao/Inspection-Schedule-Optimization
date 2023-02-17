@@ -1,4 +1,4 @@
-# Real-Time Framework for Generating Next-Month Work Schedules for Road Inspection Workers
+# Real-Time Framework for Generating Next-Month Work Schedules for Road Inspection Workers 
 
 This repository contains code for a real-time framework for generating next-month work schedules for road inspection workers.
 The framework optimizes the schedules using road GPS data and Gurobi to balance workload, minimize travel distance,
